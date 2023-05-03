@@ -4,7 +4,7 @@ from tkcalendar import *
 from datetime import datetime
 
 import tickets_api
-from city_codes import get_city_code
+from files.city_codes import get_city_code
 
 class TicketsPage(Frame):
 
