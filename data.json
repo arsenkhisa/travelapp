@@ -1,0 +1,6 @@
+{
+    "success": false,
+    "data": null,
+    "error": "bad request: origin_city_iata and destination_city_iata are equal: invalid params",
+    "status": 400
+}

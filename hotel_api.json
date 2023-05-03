@@ -1,0 +1,2502 @@
+[
+    {
+        "priceFrom": 49600.0,
+        "pricePercentile": {
+            "75": 49600.0,
+            "35": 49600.0,
+            "10": 49600.0,
+            "50": 49600.0,
+            "3": 49600.0,
+            "99": 49600.0
+        },
+        "priceAvg": 49600.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 5,
+        "hotelId": 48095021,
+        "hotelName": "Crowne Plaza Ufa - Congress Hotel, an IHG Hotel"
+    },
+    {
+        "priceFrom": 51237.33,
+        "pricePercentile": {
+            "75": 51237.33,
+            "35": 51237.33,
+            "10": 51237.33,
+            "50": 51237.33,
+            "3": 51237.33,
+            "99": 51237.33
+        },
+        "priceAvg": 51237.33,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 4,
+        "hotelId": 46455041,
+        "hotelName": "Hilton Garden Inn Ufa Riverside"
+    },
+    {
+        "priceFrom": 40605.09,
+        "pricePercentile": {
+            "75": 40605.09,
+            "35": 40605.09,
+            "10": 40605.09,
+            "50": 40605.09,
+            "3": 40605.09,
+            "99": 40605.09
+        },
+        "priceAvg": 40605.09,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 4,
+        "hotelId": 39085237,
+        "hotelName": "Nesterov Plaza"
+    },
+    {
+        "priceFrom": 13138.67,
+        "pricePercentile": {
+            "75": 13138.67,
+            "35": 13138.67,
+            "10": 13138.67,
+            "50": 13138.67,
+            "3": 13138.67,
+            "99": 13138.67
+        },
+        "priceAvg": 13138.67,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 4,
+        "hotelId": 32886586,
+        "hotelName": "Guest House Comfort"
+    },
+    {
+        "priceFrom": 28800.0,
+        "pricePercentile": {
+            "75": 28800.0,
+            "35": 28800.0,
+            "10": 28800.0,
+            "50": 28800.0,
+            "3": 28800.0,
+            "99": 28800.0
+        },
+        "priceAvg": 28800.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 48004896,
+        "hotelName": "Atola Hotel Ufa"
+    },
+    {
+        "priceFrom": 24800.0,
+        "pricePercentile": {
+            "75": 24800.0,
+            "35": 24800.0,
+            "10": 24800.0,
+            "50": 24800.0,
+            "3": 24800.0,
+            "99": 24800.0
+        },
+        "priceAvg": 24800.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 713871,
+        "hotelName": "Posadskaya Hotel"
+    },
+    {
+        "priceFrom": 54133.33,
+        "pricePercentile": {
+            "75": 54133.33,
+            "35": 54133.33,
+            "10": 54133.33,
+            "50": 54133.33,
+            "3": 54133.33,
+            "99": 54133.33
+        },
+        "priceAvg": 54133.33,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 713854,
+        "hotelName": "Iremel Hotel"
+    },
+    {
+        "priceFrom": 13466.67,
+        "pricePercentile": {
+            "75": 13466.67,
+            "35": 13466.67,
+            "10": 13466.67,
+            "50": 13466.67,
+            "3": 13466.67,
+            "99": 13466.67
+        },
+        "priceAvg": 13466.67,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 9723109,
+        "hotelName": "Гостиница Arderia"
+    },
+    {
+        "priceFrom": 16773.33,
+        "pricePercentile": {
+            "75": 16773.33,
+            "35": 16773.33,
+            "10": 16773.33,
+            "50": 16773.33,
+            "3": 16773.33,
+            "99": 16773.33
+        },
+        "priceAvg": 16773.33,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 13399392,
+        "hotelName": "Hotel Aviator"
+    },
+    {
+        "priceFrom": 15841.98,
+        "pricePercentile": {
+            "75": 15841.98,
+            "35": 15841.98,
+            "10": 15841.98,
+            "50": 15841.98,
+            "3": 15841.98,
+            "99": 15841.98
+        },
+        "priceAvg": 15841.98,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 715758,
+        "hotelName": "Dobr Zdravich"
+    },
+    {
+        "priceFrom": 22800.0,
+        "pricePercentile": {
+            "75": 22800.0,
+            "35": 22800.0,
+            "10": 22800.0,
+            "50": 22800.0,
+            "3": 22800.0,
+            "99": 22800.0
+        },
+        "priceAvg": 22800.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 2380319,
+        "hotelName": "VolnaCity Hotel"
+    },
+    {
+        "priceFrom": 30378.05,
+        "pricePercentile": {
+            "75": 30378.05,
+            "35": 30378.05,
+            "10": 30378.05,
+            "50": 30378.05,
+            "3": 30378.05,
+            "99": 30378.05
+        },
+        "priceAvg": 30378.05,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 597367,
+        "hotelName": "Hotel Complex Tan"
+    },
+    {
+        "priceFrom": 16216.0,
+        "pricePercentile": {
+            "75": 16216.0,
+            "35": 16216.0,
+            "10": 16216.0,
+            "50": 16216.0,
+            "3": 16216.0,
+            "99": 16216.0
+        },
+        "priceAvg": 16216.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 713863,
+        "hotelName": "Corona Hotel"
+    },
+    {
+        "priceFrom": 17528.0,
+        "pricePercentile": {
+            "75": 17528.0,
+            "35": 17528.0,
+            "10": 17528.0,
+            "50": 17528.0,
+            "3": 17528.0,
+            "99": 17528.0
+        },
+        "priceAvg": 17528.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 713868,
+        "hotelName": "Svoyak Hotel"
+    },
+    {
+        "priceFrom": 16000.0,
+        "pricePercentile": {
+            "75": 16000.0,
+            "35": 16000.0,
+            "10": 16000.0,
+            "50": 16000.0,
+            "3": 16000.0,
+            "99": 16000.0
+        },
+        "priceAvg": 16000.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 11746992,
+        "hotelName": "Hotel Absolut"
+    },
+    {
+        "priceFrom": 19408.0,
+        "pricePercentile": {
+            "75": 19408.0,
+            "35": 19408.0,
+            "10": 19408.0,
+            "50": 19408.0,
+            "3": 19408.0,
+            "99": 19408.0
+        },
+        "priceAvg": 19408.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 713872,
+        "hotelName": "Ufa-Astoria Hotel"
+    },
+    {
+        "priceFrom": 20800.0,
+        "pricePercentile": {
+            "75": 20800.0,
+            "35": 20800.0,
+            "10": 20800.0,
+            "50": 20800.0,
+            "3": 20800.0,
+            "99": 20800.0
+        },
+        "priceAvg": 20800.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 2440582,
+        "hotelName": "Hotel Aristol"
+    },
+    {
+        "priceFrom": 16506.06,
+        "pricePercentile": {
+            "75": 16506.06,
+            "35": 16506.06,
+            "10": 16506.06,
+            "50": 16506.06,
+            "3": 16506.06,
+            "99": 16506.06
+        },
+        "priceAvg": 16506.06,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 1850947386,
+        "hotelName": "Hotel Aristokrat"
+    },
+    {
+        "priceFrom": 21009.07,
+        "pricePercentile": {
+            "75": 21009.07,
+            "35": 21009.07,
+            "10": 21009.07,
+            "50": 21009.07,
+            "3": 21009.07,
+            "99": 21009.07
+        },
+        "priceAvg": 21009.07,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 46186278,
+        "hotelName": "MINI HOTEL Green Home"
+    },
+    {
+        "priceFrom": 44000.0,
+        "pricePercentile": {
+            "75": 44000.0,
+            "35": 44000.0,
+            "10": 44000.0,
+            "50": 44000.0,
+            "3": 44000.0,
+            "99": 44000.0
+        },
+        "priceAvg": 44000.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 47543766,
+        "hotelName": "Hampton by Hilton Ufa"
+    },
+    {
+        "priceFrom": 22562.82,
+        "pricePercentile": {
+            "75": 22562.82,
+            "35": 22562.82,
+            "10": 22562.82,
+            "50": 22562.82,
+            "3": 22562.82,
+            "99": 22562.82
+        },
+        "priceAvg": 22562.82,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 28796248,
+        "hotelName": "Zelenaya Roscha Sanatorium"
+    },
+    {
+        "priceFrom": 28000.0,
+        "pricePercentile": {
+            "75": 28000.0,
+            "35": 28000.0,
+            "10": 28000.0,
+            "50": 28000.0,
+            "3": 28000.0,
+            "99": 28000.0
+        },
+        "priceAvg": 28000.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 1405170665,
+        "hotelName": "Maliy Hotel on Chernikovskaya"
+    },
+    {
+        "priceFrom": 14258.67,
+        "pricePercentile": {
+            "75": 14258.67,
+            "35": 14258.67,
+            "10": 14258.67,
+            "50": 14258.67,
+            "3": 14258.67,
+            "99": 14258.67
+        },
+        "priceAvg": 14258.67,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 1914872032,
+        "hotelName": "PASTEL LUXE"
+    },
+    {
+        "priceFrom": 36239.78,
+        "pricePercentile": {
+            "75": 36239.78,
+            "35": 36239.78,
+            "10": 36239.78,
+            "50": 36239.78,
+            "3": 36239.78,
+            "99": 36239.78
+        },
+        "priceAvg": 36239.78,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 29892559,
+        "hotelName": "ApartHotel Olimp"
+    },
+    {
+        "priceFrom": 20000.0,
+        "pricePercentile": {
+            "75": 20000.0,
+            "35": 20000.0,
+            "10": 20000.0,
+            "50": 20000.0,
+            "3": 20000.0,
+            "99": 20000.0
+        },
+        "priceAvg": 20000.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 3,
+        "hotelId": 2440580,
+        "hotelName": "Hotel Agidel"
+    },
+    {
+        "priceFrom": 16000.0,
+        "pricePercentile": {
+            "75": 16000.0,
+            "35": 16000.0,
+            "10": 16000.0,
+            "50": 16000.0,
+            "3": 16000.0,
+            "99": 16000.0
+        },
+        "priceAvg": 16000.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 19123041,
+        "hotelName": "Hotel Panorama"
+    },
+    {
+        "priceFrom": 19728.0,
+        "pricePercentile": {
+            "75": 19728.0,
+            "35": 19728.0,
+            "10": 19728.0,
+            "50": 19728.0,
+            "3": 19728.0,
+            "99": 19728.0
+        },
+        "priceAvg": 19728.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 713856,
+        "hotelName": "Na Vysote Hotel"
+    },
+    {
+        "priceFrom": 13544.0,
+        "pricePercentile": {
+            "75": 13544.0,
+            "35": 13544.0,
+            "10": 13544.0,
+            "50": 13544.0,
+            "3": 13544.0,
+            "99": 13544.0
+        },
+        "priceAvg": 13544.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 17548307,
+        "hotelName": "Hotel One Way"
+    },
+    {
+        "priceFrom": 20520.0,
+        "pricePercentile": {
+            "75": 20520.0,
+            "35": 20520.0,
+            "10": 20520.0,
+            "50": 20520.0,
+            "3": 20520.0,
+            "99": 20520.0
+        },
+        "priceAvg": 20520.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 713870,
+        "hotelName": "Agio Hotel"
+    },
+    {
+        "priceFrom": 12674.67,
+        "pricePercentile": {
+            "75": 12674.67,
+            "35": 12674.67,
+            "10": 12674.67,
+            "50": 12674.67,
+            "3": 12674.67,
+            "99": 12674.67
+        },
+        "priceAvg": 12674.67,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 1841528,
+        "hotelName": "Prichal House"
+    },
+    {
+        "priceFrom": 13841.73,
+        "pricePercentile": {
+            "75": 13841.73,
+            "35": 13841.73,
+            "10": 13841.73,
+            "50": 13841.73,
+            "3": 13841.73,
+            "99": 13841.73
+        },
+        "priceAvg": 13841.73,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 374701796,
+        "hotelName": "Hotel Prestige"
+    },
+    {
+        "priceFrom": 27725.33,
+        "pricePercentile": {
+            "75": 27725.33,
+            "35": 27725.33,
+            "10": 27725.33,
+            "50": 27725.33,
+            "3": 27725.33,
+            "99": 27725.33
+        },
+        "priceAvg": 27725.33,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 2,
+        "hotelId": 48835966,
+        "hotelName": "Hotel Marrakesh"
+    },
+    {
+        "priceFrom": 26299.29,
+        "pricePercentile": {
+            "75": 26299.29,
+            "35": 26299.29,
+            "10": 26299.29,
+            "50": 26299.29,
+            "3": 26299.29,
+            "99": 26299.29
+        },
+        "priceAvg": 26299.29,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 28568673,
+        "hotelName": "Hotel Eco-Style"
+    },
+    {
+        "priceFrom": 25600.0,
+        "pricePercentile": {
+            "75": 25600.0,
+            "35": 25600.0,
+            "10": 25600.0,
+            "50": 25600.0,
+            "3": 25600.0,
+            "99": 25600.0
+        },
+        "priceAvg": 25600.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 713853,
+        "hotelName": "AZIMUT Hotel Ufa"
+    },
+    {
+        "priceFrom": 20800.0,
+        "pricePercentile": {
+            "75": 20800.0,
+            "35": 20800.0,
+            "10": 20800.0,
+            "50": 20800.0,
+            "3": 20800.0,
+            "99": 20800.0
+        },
+        "priceAvg": 20800.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 39977299,
+        "hotelName": "Mini Hotel Evropa"
+    },
+    {
+        "priceFrom": 16800.0,
+        "pricePercentile": {
+            "75": 16800.0,
+            "35": 16800.0,
+            "10": 16800.0,
+            "50": 16800.0,
+            "3": 16800.0,
+            "99": 16800.0
+        },
+        "priceAvg": 16800.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 13848204,
+        "hotelName": "Volshebniy Kray Apartments on Mendeleeva"
+    },
+    {
+        "priceFrom": 8792.69,
+        "pricePercentile": {
+            "75": 8792.69,
+            "35": 8792.69,
+            "10": 8792.69,
+            "50": 8792.69,
+            "3": 8792.69,
+            "99": 8792.69
+        },
+        "priceAvg": 8792.69,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 16170862,
+        "hotelName": "Hotel Complex Mercury"
+    },
+    {
+        "priceFrom": 22045.67,
+        "pricePercentile": {
+            "75": 22045.67,
+            "35": 22045.67,
+            "10": 22045.67,
+            "50": 22045.67,
+            "3": 22045.67,
+            "99": 22045.67
+        },
+        "priceAvg": 22045.67,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916299583,
+        "hotelName": "Studia"
+    },
+    {
+        "priceFrom": 13588.7,
+        "pricePercentile": {
+            "75": 13588.7,
+            "35": 13588.7,
+            "10": 13588.7,
+            "50": 13588.7,
+            "3": 13588.7,
+            "99": 13588.7
+        },
+        "priceAvg": 13588.7,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915737462,
+        "hotelName": "Studia"
+    },
+    {
+        "priceFrom": 20223.19,
+        "pricePercentile": {
+            "75": 20223.19,
+            "35": 20223.19,
+            "10": 20223.19,
+            "50": 20223.19,
+            "3": 20223.19,
+            "99": 20223.19
+        },
+        "priceAvg": 20223.19,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915772595,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 17914.71,
+        "pricePercentile": {
+            "75": 17914.71,
+            "35": 17914.71,
+            "10": 17914.71,
+            "50": 17914.71,
+            "3": 17914.71,
+            "99": 17914.71
+        },
+        "priceAvg": 17914.71,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916493724,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 22395.85,
+        "pricePercentile": {
+            "75": 22395.85,
+            "35": 22395.85,
+            "10": 22395.85,
+            "50": 22395.85,
+            "3": 22395.85,
+            "99": 22395.85
+        },
+        "priceAvg": 22395.85,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915717370,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 23900.13,
+        "pricePercentile": {
+            "75": 23900.13,
+            "35": 23900.13,
+            "10": 23900.13,
+            "50": 23900.13,
+            "3": 23900.13,
+            "99": 23900.13
+        },
+        "priceAvg": 23900.13,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915759411,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 18224.85,
+        "pricePercentile": {
+            "75": 18224.85,
+            "35": 18224.85,
+            "10": 18224.85,
+            "50": 18224.85,
+            "3": 18224.85,
+            "99": 18224.85
+        },
+        "priceAvg": 18224.85,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915769547,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 16786.05,
+        "pricePercentile": {
+            "75": 16786.05,
+            "35": 16786.05,
+            "10": 16786.05,
+            "50": 16786.05,
+            "3": 16786.05,
+            "99": 16786.05
+        },
+        "priceAvg": 16786.05,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915704315,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 13647.79,
+        "pricePercentile": {
+            "75": 13647.79,
+            "35": 13647.79,
+            "10": 13647.79,
+            "50": 13647.79,
+            "3": 13647.79,
+            "99": 13647.79
+        },
+        "priceAvg": 13647.79,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740782,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 18651.16,
+        "pricePercentile": {
+            "75": 18651.16,
+            "35": 18651.16,
+            "10": 18651.16,
+            "50": 18651.16,
+            "3": 18651.16,
+            "99": 18651.16
+        },
+        "priceAvg": 18651.16,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915739350,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 61282.39,
+        "pricePercentile": {
+            "75": 61282.39,
+            "35": 61282.39,
+            "10": 61282.39,
+            "50": 61282.39,
+            "3": 61282.39,
+            "99": 61282.39
+        },
+        "priceAvg": 61282.39,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915755320,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 20782.72,
+        "pricePercentile": {
+            "75": 20782.72,
+            "35": 20782.72,
+            "10": 20782.72,
+            "50": 20782.72,
+            "3": 20782.72,
+            "99": 20782.72
+        },
+        "priceAvg": 20782.72,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916589218,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 19184.05,
+        "pricePercentile": {
+            "75": 19184.05,
+            "35": 19184.05,
+            "10": 19184.05,
+            "50": 19184.05,
+            "3": 19184.05,
+            "99": 19184.05
+        },
+        "priceAvg": 19184.05,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915737429,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 32313.15,
+        "pricePercentile": {
+            "75": 32313.15,
+            "35": 32313.15,
+            "10": 32313.15,
+            "50": 32313.15,
+            "3": 32313.15,
+            "99": 32313.15
+        },
+        "priceAvg": 32313.15,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915773168,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 26378.07,
+        "pricePercentile": {
+            "75": 26378.07,
+            "35": 26378.07,
+            "10": 26378.07,
+            "50": 26378.07,
+            "3": 26378.07,
+            "99": 26378.07
+        },
+        "priceAvg": 26378.07,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740732,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 22395.85,
+        "pricePercentile": {
+            "75": 22395.85,
+            "35": 22395.85,
+            "10": 22395.85,
+            "50": 22395.85,
+            "3": 22395.85,
+            "99": 22395.85
+        },
+        "priceAvg": 22395.85,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740749,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 22872.09,
+        "pricePercentile": {
+            "75": 22872.09,
+            "35": 22872.09,
+            "10": 22872.09,
+            "50": 22872.09,
+            "3": 22872.09,
+            "99": 22872.09
+        },
+        "priceAvg": 22872.09,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915712464,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 25432.19,
+        "pricePercentile": {
+            "75": 25432.19,
+            "35": 25432.19,
+            "10": 25432.19,
+            "50": 25432.19,
+            "3": 25432.19,
+            "99": 25432.19
+        },
+        "priceAvg": 25432.19,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740996,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 14124.26,
+        "pricePercentile": {
+            "75": 14124.26,
+            "35": 14124.26,
+            "10": 14124.26,
+            "50": 14124.26,
+            "3": 14124.26,
+            "99": 14124.26
+        },
+        "priceAvg": 14124.26,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916508845,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 27270.66,
+        "pricePercentile": {
+            "75": 27270.66,
+            "35": 27270.66,
+            "10": 27270.66,
+            "50": 27270.66,
+            "3": 27270.66,
+            "99": 27270.66
+        },
+        "priceAvg": 27270.66,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915704613,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 17585.38,
+        "pricePercentile": {
+            "75": 17585.38,
+            "35": 17585.38,
+            "10": 17585.38,
+            "50": 17585.38,
+            "3": 17585.38,
+            "99": 17585.38
+        },
+        "priceAvg": 17585.38,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916997872,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 28208.11,
+        "pricePercentile": {
+            "75": 28208.11,
+            "35": 28208.11,
+            "10": 28208.11,
+            "50": 28208.11,
+            "3": 28208.11,
+            "99": 28208.11
+        },
+        "priceAvg": 28208.11,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916081050,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 15279.3,
+        "pricePercentile": {
+            "75": 15279.3,
+            "35": 15279.3,
+            "10": 15279.3,
+            "50": 15279.3,
+            "3": 15279.3,
+            "99": 15279.3
+        },
+        "priceAvg": 15279.3,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916184215,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 14388.04,
+        "pricePercentile": {
+            "75": 14388.04,
+            "35": 14388.04,
+            "10": 14388.04,
+            "50": 14388.04,
+            "3": 14388.04,
+            "99": 14388.04
+        },
+        "priceAvg": 14388.04,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915997744,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 31293.99,
+        "pricePercentile": {
+            "75": 31293.99,
+            "35": 31293.99,
+            "10": 31293.99,
+            "50": 31293.99,
+            "3": 31293.99,
+            "99": 31293.99
+        },
+        "priceAvg": 31293.99,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915752200,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 10191.53,
+        "pricePercentile": {
+            "75": 10191.53,
+            "35": 10191.53,
+            "10": 10191.53,
+            "50": 10191.53,
+            "3": 10191.53,
+            "99": 10191.53
+        },
+        "priceAvg": 10191.53,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916084419,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 22685.14,
+        "pricePercentile": {
+            "75": 22685.14,
+            "35": 22685.14,
+            "10": 22685.14,
+            "50": 22685.14,
+            "3": 22685.14,
+            "99": 22685.14
+        },
+        "priceAvg": 22685.14,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915730232,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 18900.95,
+        "pricePercentile": {
+            "75": 18900.95,
+            "35": 18900.95,
+            "10": 18900.95,
+            "50": 18900.95,
+            "3": 18900.95,
+            "99": 18900.95
+        },
+        "priceAvg": 18900.95,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915786343,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 15887.46,
+        "pricePercentile": {
+            "75": 15887.46,
+            "35": 15887.46,
+            "10": 15887.46,
+            "50": 15887.46,
+            "3": 15887.46,
+            "99": 15887.46
+        },
+        "priceAvg": 15887.46,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915764589,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 20836.01,
+        "pricePercentile": {
+            "75": 20836.01,
+            "35": 20836.01,
+            "10": 20836.01,
+            "50": 20836.01,
+            "3": 20836.01,
+            "99": 20836.01
+        },
+        "priceAvg": 20836.01,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915768017,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 69320.49,
+        "pricePercentile": {
+            "75": 69320.49,
+            "35": 69320.49,
+            "10": 69320.49,
+            "50": 69320.49,
+            "3": 69320.49,
+            "99": 69320.49
+        },
+        "priceAvg": 69320.49,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915848958,
+        "hotelName": "3-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 27883.49,
+        "pricePercentile": {
+            "75": 27883.49,
+            "35": 27883.49,
+            "10": 27883.49,
+            "50": 27883.49,
+            "3": 27883.49,
+            "99": 27883.49
+        },
+        "priceAvg": 27883.49,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740995,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 23980.07,
+        "pricePercentile": {
+            "75": 23980.07,
+            "35": 23980.07,
+            "10": 23980.07,
+            "50": 23980.07,
+            "3": 23980.07,
+            "99": 23980.07
+        },
+        "priceAvg": 23980.07,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915773871,
+        "hotelName": "3-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 17993.04,
+        "pricePercentile": {
+            "75": 17993.04,
+            "35": 17993.04,
+            "10": 17993.04,
+            "50": 17993.04,
+            "3": 17993.04,
+            "99": 17993.04
+        },
+        "priceAvg": 17993.04,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915870348,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 21582.06,
+        "pricePercentile": {
+            "75": 21582.06,
+            "35": 21582.06,
+            "10": 21582.06,
+            "50": 21582.06,
+            "3": 21582.06,
+            "99": 21582.06
+        },
+        "priceAvg": 21582.06,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915741746,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 22141.59,
+        "pricePercentile": {
+            "75": 22141.59,
+            "35": 22141.59,
+            "10": 22141.59,
+            "50": 22141.59,
+            "3": 22141.59,
+            "99": 22141.59
+        },
+        "priceAvg": 22141.59,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915748153,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 17993.04,
+        "pricePercentile": {
+            "75": 17993.04,
+            "35": 17993.04,
+            "10": 17993.04,
+            "50": 17993.04,
+            "3": 17993.04,
+            "99": 17993.04
+        },
+        "priceAvg": 17993.04,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916587987,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 18547.38,
+        "pricePercentile": {
+            "75": 18547.38,
+            "35": 18547.38,
+            "10": 18547.38,
+            "50": 18547.38,
+            "3": 18547.38,
+            "99": 18547.38
+        },
+        "priceAvg": 18547.38,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916301700,
+        "hotelName": "Studia"
+    },
+    {
+        "priceFrom": 28700.5,
+        "pricePercentile": {
+            "75": 28700.5,
+            "35": 28700.5,
+            "10": 28700.5,
+            "50": 28700.5,
+            "3": 28700.5,
+            "99": 28700.5
+        },
+        "priceAvg": 28700.5,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915710474,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 39885.95,
+        "pricePercentile": {
+            "75": 39885.95,
+            "35": 39885.95,
+            "10": 39885.95,
+            "50": 39885.95,
+            "3": 39885.95,
+            "99": 39885.95
+        },
+        "priceAvg": 39885.95,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915739075,
+        "hotelName": "3-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 22773.07,
+        "pricePercentile": {
+            "75": 22773.07,
+            "35": 22773.07,
+            "10": 22773.07,
+            "50": 22773.07,
+            "3": 22773.07,
+            "99": 22773.07
+        },
+        "priceAvg": 22773.07,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915772594,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 23843.49,
+        "pricePercentile": {
+            "75": 23843.49,
+            "35": 23843.49,
+            "10": 23843.49,
+            "50": 23843.49,
+            "3": 23843.49,
+            "99": 23843.49
+        },
+        "priceAvg": 23843.49,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740731,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 35970.1,
+        "pricePercentile": {
+            "75": 35970.1,
+            "35": 35970.1,
+            "10": 35970.1,
+            "50": 35970.1,
+            "3": 35970.1,
+            "99": 35970.1
+        },
+        "priceAvg": 35970.1,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916509619,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 17841.17,
+        "pricePercentile": {
+            "75": 17841.17,
+            "35": 17841.17,
+            "10": 17841.17,
+            "50": 17841.17,
+            "3": 17841.17,
+            "99": 17841.17
+        },
+        "priceAvg": 17841.17,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915730422,
+        "hotelName": "3-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 30025.14,
+        "pricePercentile": {
+            "75": 30025.14,
+            "35": 30025.14,
+            "10": 30025.14,
+            "50": 30025.14,
+            "3": 30025.14,
+            "99": 30025.14
+        },
+        "priceAvg": 30025.14,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740729,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 16846.0,
+        "pricePercentile": {
+            "75": 16846.0,
+            "35": 16846.0,
+            "10": 16846.0,
+            "50": 16846.0,
+            "3": 16846.0,
+            "99": 16846.0
+        },
+        "priceAvg": 16846.0,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915872008,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 31174.09,
+        "pricePercentile": {
+            "75": 31174.09,
+            "35": 31174.09,
+            "10": 31174.09,
+            "50": 31174.09,
+            "3": 31174.09,
+            "99": 31174.09
+        },
+        "priceAvg": 31174.09,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915770637,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 16253.16,
+        "pricePercentile": {
+            "75": 16253.16,
+            "35": 16253.16,
+            "10": 16253.16,
+            "50": 16253.16,
+            "3": 16253.16,
+            "99": 16253.16
+        },
+        "priceAvg": 16253.16,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915723011,
+        "hotelName": "1-komnatnaa Kvartira"
+    },
+    {
+        "priceFrom": 16773.33,
+        "pricePercentile": {
+            "75": 16773.33,
+            "35": 16773.33,
+            "10": 16773.33,
+            "50": 16773.33,
+            "3": 16773.33,
+            "99": 16773.33
+        },
+        "priceAvg": 16773.33,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1898008472,
+        "hotelName": "Vlada"
+    },
+    {
+        "priceFrom": 22077.31,
+        "pricePercentile": {
+            "75": 22077.31,
+            "35": 22077.31,
+            "10": 22077.31,
+            "50": 22077.31,
+            "3": 22077.31,
+            "99": 22077.31
+        },
+        "priceAvg": 22077.31,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915730231,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 34542.94,
+        "pricePercentile": {
+            "75": 34542.94,
+            "35": 34542.94,
+            "10": 34542.94,
+            "50": 34542.94,
+            "3": 34542.94,
+            "99": 34542.94
+        },
+        "priceAvg": 34542.94,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915715219,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 31840.2,
+        "pricePercentile": {
+            "75": 31840.2,
+            "35": 31840.2,
+            "10": 31840.2,
+            "50": 31840.2,
+            "3": 31840.2,
+            "99": 31840.2
+        },
+        "priceAvg": 31840.2,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915722764,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 21981.73,
+        "pricePercentile": {
+            "75": 21981.73,
+            "35": 21981.73,
+            "10": 21981.73,
+            "50": 21981.73,
+            "3": 21981.73,
+            "99": 21981.73
+        },
+        "priceAvg": 21981.73,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915710473,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 22077.31,
+        "pricePercentile": {
+            "75": 22077.31,
+            "35": 22077.31,
+            "10": 22077.31,
+            "50": 22077.31,
+            "3": 22077.31,
+            "99": 22077.31
+        },
+        "priceAvg": 22077.31,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915757329,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 33156.1,
+        "pricePercentile": {
+            "75": 33156.1,
+            "35": 33156.1,
+            "10": 33156.1,
+            "50": 33156.1,
+            "3": 33156.1,
+            "99": 33156.1
+        },
+        "priceAvg": 33156.1,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916322147,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 21102.46,
+        "pricePercentile": {
+            "75": 21102.46,
+            "35": 21102.46,
+            "10": 21102.46,
+            "50": 21102.46,
+            "3": 21102.46,
+            "99": 21102.46
+        },
+        "priceAvg": 21102.46,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915740730,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 25179.07,
+        "pricePercentile": {
+            "75": 25179.07,
+            "35": 25179.07,
+            "10": 25179.07,
+            "50": 25179.07,
+            "3": 25179.07,
+            "99": 25179.07
+        },
+        "priceAvg": 25179.07,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916322743,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 19983.39,
+        "pricePercentile": {
+            "75": 19983.39,
+            "35": 19983.39,
+            "10": 19983.39,
+            "50": 19983.39,
+            "3": 19983.39,
+            "99": 19983.39
+        },
+        "priceAvg": 19983.39,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915728058,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 27353.16,
+        "pricePercentile": {
+            "75": 27353.16,
+            "35": 27353.16,
+            "10": 27353.16,
+            "50": 27353.16,
+            "3": 27353.16,
+            "99": 27353.16
+        },
+        "priceAvg": 27353.16,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915760620,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 21582.06,
+        "pricePercentile": {
+            "75": 21582.06,
+            "35": 21582.06,
+            "10": 21582.06,
+            "50": 21582.06,
+            "3": 21582.06,
+            "99": 21582.06
+        },
+        "priceAvg": 21582.06,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915783800,
+        "hotelName": "1-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 27684.99,
+        "pricePercentile": {
+            "75": 27684.99,
+            "35": 27684.99,
+            "10": 27684.99,
+            "50": 27684.99,
+            "3": 27684.99,
+            "99": 27684.99
+        },
+        "priceAvg": 27684.99,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915764723,
+        "hotelName": "Apartament"
+    },
+    {
+        "priceFrom": 19983.39,
+        "pricePercentile": {
+            "75": 19983.39,
+            "35": 19983.39,
+            "10": 19983.39,
+            "50": 19983.39,
+            "3": 19983.39,
+            "99": 19983.39
+        },
+        "priceAvg": 19983.39,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1915870347,
+        "hotelName": "2-komnatnaa kvartira"
+    },
+    {
+        "priceFrom": 19184.05,
+        "pricePercentile": {
+            "75": 19184.05,
+            "35": 19184.05,
+            "10": 19184.05,
+            "50": 19184.05,
+            "3": 19184.05,
+            "99": 19184.05
+        },
+        "priceAvg": 19184.05,
+        "locationId": 12209,
+        "location": {
+            "geo": {
+                "lon": 55.971381,
+                "lat": 54.749474
+            },
+            "country": "Russia",
+            "name": "Ufa",
+            "state": null
+        },
+        "stars": 0,
+        "hotelId": 1916386530,
+        "hotelName": "1-komnatnaa kvartira"
+    }
+]
