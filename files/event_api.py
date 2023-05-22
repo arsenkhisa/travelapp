@@ -1,19 +1,38 @@
-
 import json
 import requests
 
-def search_events(destination, type):
-    print('\n', destination, '\n', type, '\n')
+
+def search_events(destination, event_type):
+    """
+    Функция для поиска событий по заданному направлению и типу события.
+
+    :param destination: Строка, описывающая город назначения.
+    :param event_type: Целое число, описывающее тип события.
+    :return: Список словарей с информацией о найденных событиях.
+    """
+    # URL-адрес для отправки запроса
     url = "https://experience.tripster.ru/api/partners/%3Cpartner_name%3E/experiences/?"
+
+    # Параметры для запроса
     params = {
         "city__name_en": destination,
-        "exp_format": type,
+        "exp_format": event_type,
     }
+
+    # Отправка GET-запроса и получение ответа
     response = requests.get(url, params=params)
 
+    # Преобразование ответа из формата JSON в объект Python
     data = json.loads(response.text)
-    with open("events_api.json", "w+", encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    with open('events_api.json', 'r+', encoding='utf-8') as f:
-        data = json.load(f)
-        print(json.dumps(data))
+    events = [] # пустой список для хранения информации о мероприятиях
+
+    # Проход по всем мероприятиям и добавление их в список
+    for i in range(len(data['results'])):
+        events.append({
+            'eventName': data['results'][i]['title'],
+            'description': data['results'][i]['tagline'],
+            'price': data['results'][i]['price']['value_string'],
+            'movementType': 'By ' + data['results'][i]['movement_type'],
+            'duration': str(data['results'][i]['duration']) + ' hours'
+        })
+    return events # возврат списка с информацией о мероприятиях

@@ -1,17 +1,20 @@
 import requests
 import mysql.connector
 
-city_url = "https://api.travelpayouts.com/data/en/cities.json"
-city_response = requests.get(city_url)
-city_data = city_response.json()
+# Коды городов
+codes = ['MOW', 'LED', 'UFA', 'KZN', 'VVO']
 
-iata_codes = []
+# Даты для обновления данных
+dates = ['2023-05-16', '2023-05-17', '2023-05-18', '2023-05-19', '2023-05-20', '2023-05-21',
+         '2023-05-22', '2023-05-22', '2023-05-23', '2023-05-24', '2023-05-25', '2023-05-26',
+         '2023-05-27', '2023-05-28', '2023-05-29', '2023-05-30', '2023-05-31', '2023-06-01',
+         '2023-06-02', '2023-06-03', '2023-06-04', '2023-06-05', '2023-06-06', '2023-06-07',
+         '2023-06-08', '2023-06-09', '2023-06-10', '2023-06-11', '2023-06-12', '2023-06-13']
 
-for city in city_data:
-    if city['country_code'] == 'RU':
-        iata_codes.append(city['code'])
-iata_codes.sort()
+# Типы мероприятий для обновления данных
+types = [1, 2, 5, 7, 8]
 
+# Установка соединения с базой данных MySQL
 mydb = mysql.connector.connect(
     host="127.0.0.1",
     user="root",
@@ -19,38 +22,48 @@ mydb = mysql.connector.connect(
     database="app"
 )
 
+# Создание курсора для выполнения запросов SQL
 mycursor = mydb.cursor()
 
-url = "https://api.travelpayouts.com/v2/prices/latest"
+def events_update():
+    """
+    Обновление мероприятий в базе данных.
 
-for origin_code in range(len(iata_codes)):
-    flag = requests.get(url,
-                        params={'origin': iata_codes[origin_code],
-                                'destination': 'MOW',
-                                'token': '9570cd803e10001a719af1e9aba6835a'})
-    check = flag.json()
-    if (check['success'] is True) and (len(check['data']) != 0):
-        for destination_code in range(len(iata_codes)):
-            response = requests.get(url,
-                                    params={'currency': 'rub',
-                                            'origin': iata_codes[origin_code],
-                                            'destination': iata_codes[destination_code],
-                                            'token': '9570cd803e10001a719af1e9aba6835a'})
+    Функция обходит каждый город и каждый тип мероприятия,
+    делает запрос к API и обновляет данные о мероприятиях в базе данных.
+    """
+    # Проход по каждому городу
+    for city in range(len(codes)):
+        # Проход по каждому типу мероприятия
+        for event in range(len(types)):
+            # URL API для запроса данных
+            url = "https://experience.tripster.ru/api/partners/%3Cpartner_name%3E/experiences/?"
+            params = {
+                "city__iata": codes[city],
+                "exp_format": types[event],
+            }
+            # Выполнение GET запроса к API
+            response = requests.get(url, params=params)
             data = response.json()
-            print(iata_codes[origin_code], "    ", iata_codes[destination_code])
-
-            if (data['success'] is True) and (len(data['data']) != 0):
-                print(data['data'])
-                for i in range(len(data['data'])):
-                    sql = "INSERT INTO tickets (origin, destination, departure_date, return_date, price)" \
-                          " VALUES (%s, %s, %s, %s, %s)"
-                    val = (data['data'][i]['origin'], data['data'][i]['destination'],
-                           data['data'][i]['depart_date'], data['data'][i]['return_date'],
-                           data['data'][i]['value'])
+            # Если есть результаты, обновляем данные в базе данных
+            if len(data['results']) != 0 and len(data) != 0:
+                # Проход по каждому результату
+                for i in range(len(data['results'])):
+                    # SQL запрос для вставки данных в таблицу "events"
+                    sql = "INSERT INTO events (city, title, tagline, event_type, " \
+                          "duration, price, url)" \
+                          " VALUES (%s, %s, %s, %s, %s, %s, %s)"
+                    val = (data['results'][i]['city']['name_ru'], data['results'][i]['title'],
+                           data['results'][i]['tagline'], data['results'][i]['type'],
+                           data['results'][i]['duration'], data['results'][i]['price']['value'],
+                           data['results'][i]['url'])
+                    # Выполнение SQL запроса
                     mycursor.execute(sql, val)
+                    # Подтверждение изменений в базе данных
                     mydb.commit()
 
-    else:
-        origin_code += 1
+# Вызов функции для обновления данных о мероприятиях
+events_update()
 
+# Закрытие соединения с базой данных
 mydb.close()

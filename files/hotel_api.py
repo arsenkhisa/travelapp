@@ -1,30 +1,47 @@
 import json
 import requests
 
+def search_hotels(destination, departure_date, return_date, adults):
+    """
+    Поиск отелей по заданным параметрам.
 
-def search_hotel(destination, departure_date, return_date, adults):
-    print('\n', destination, '\n', departure_date, '\n', return_date, '\n', adults,
-          '\n')
+    Args:
+        destination (str): город назначения.
+        departure_date (str): дата отъезда.
+        return_date (str): дата возвращения.
+        adults (int): количество взрослых.
+
+    Returns:
+        list: список отелей.
+    """
+    # URL-адрес для отправки запроса
     url = "https://engine.hotellook.com/api/v2/cache.json?"
+
+    # Параметры для запроса
     params = {
         "location": destination,
         "currency": "rub",
         "checkIn": departure_date,
         "checkOut": return_date,
-        "currency": "rub",
         "adults": adults,
-        "limit": 100
+        "limit": 10000
     }
+
+    # Отправка GET-запроса и получение ответа
     response = requests.get(url, params=params)
 
+    # Преобразование ответа из формата JSON в объект Python
     data = json.loads(response.text)
-    with open("hotel_api.json", "w+") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    with open('hotel_api.json', 'r+') as f:
-        data = json.load(f)
-        print(json.dumps(data))
 
+    hotels = [] # пустой список для хранения информации об отелях
 
-
-
-
+    # Проход по всем отелям и добавление их в список
+    for i in range(len(data)):
+        hotels.append({
+            'hotelName': data[i]['hotelName'],
+            'stars': data[i]['stars'],
+            'avgPrice': data[i]['priceAvg'],
+            'checkIn': departure_date,
+            'checkOut': return_date
+        })
+    return hotels # возврат списка с информацией об отелях
